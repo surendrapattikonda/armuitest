@@ -5,4 +5,8 @@
         <members>classes/ApexClassTest</members>
         <name>ApexClass</name>
     </types>
+    <types>
+        <members>objects/Account.Partner_Discount__c</members>
+        <name>CustomField</name>
+    </types>
 </Package>
