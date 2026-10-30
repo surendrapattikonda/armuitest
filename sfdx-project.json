@@ -1,10 +1,17 @@
 {
   "packageDirectories" : [ {
     "path" : "sure-sanity-module",
-    "default" : true,
+    "default" : false,
     "package" : "sure-sanity-module",
     "scopeProfiles" : "false",
     "versionName" : "sure-sanity-module",
+    "versionNumber" : "1.0.0.0"
+  }, {
+    "path" : "sure-authhub-module",
+    "default" : true,
+    "package" : "sure-authhub-module",
+    "scopeProfiles" : "false",
+    "versionName" : "sure-authhub-module",
     "versionNumber" : "1.0.0.0"
   } ],
   "namespace" : "",
@@ -12,7 +19,9 @@
   "sourceApiVersion" : "67.0",
   "packageAliases" : {
     "sure-sanity-module" : "0HogK00000058RZSAY",
-    "sure-sanity-module@1.0.0.0" : "04tgK000000XPfZQAW"
+    "sure-sanity-module@1.0.0.0" : "04tgK000000XPfZQAW",
+    "sure-authhub-module" : "0HogK00000058TBSAY",
+    "sure-authhub-module@1.0.0.0" : "04tgK000000XPpFQAW"
   },
   "name" : "sure-sanity-module"
 }
